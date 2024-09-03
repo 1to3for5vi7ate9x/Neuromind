@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Neuromind
 
 Neuromind is an ambitious project aimed at creating a mesh of neural networks with distinct conscious and unconscious components. The project is inspired by the structure and function of the human mind, with the goal of exploring advanced AI capabilities in decision-making, pattern recognition, and adaptive learning.
